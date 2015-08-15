@@ -6,4 +6,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>http://yoursitehere/post/hoge/</loc>
+  </url>
+  
 </urlset>
