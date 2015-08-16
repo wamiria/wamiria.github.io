@@ -14,17 +14,41 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yoursitehere/post/hoge/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;test&lt;/p&gt;&lt;/li&gt;
+      <description>&lt;p&gt;##Hugoでページ公開&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;em&gt;test&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;ubuntu環境でhugoとgithub pagesをつかってブログを作ってみました。忘れないようにかいておきます。&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;#Hugoをインストール&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;こんにちは&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://exponential.io/blog/2015/02/25/install-hugo-on-ubuntu-linux/&#34;&gt;Install Hugo on Ubuntu Linux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ここをみてubuntuにインストール。&lt;/p&gt;
+
+&lt;p&gt;かいてある通りにやったらうまくいきました。&lt;/p&gt;
+
+&lt;p&gt;#Hugoで記事を作成&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eichann.github.io/post/first/&#34;&gt;hugo + Github Pagesでブログ作成に挑戦した話&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;こちらを参考にしました。github pagesで公開の前まで実行です。&lt;/p&gt;
+
+&lt;p&gt;#記事（markdown)の編集&lt;/p&gt;
+
+&lt;p&gt;markdownというのを全く知らなかったので調べて編集しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.markdown.jp/syntax/&#34;&gt;日本語Markdownユーザー会&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;markdownで記事の編集ができたらHugoでページを生成！&lt;/p&gt;
+
+&lt;p&gt;#github　pagesで公開&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://liginc.co.jp/web/html-css/html/96453&#34;&gt;Git初心者でも大丈夫！完全無料でGithub PagesにWebページを公開する方法&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;このページを見ながら、アカウントから作成しました。とってもわかりやすい！&lt;/p&gt;
+
+&lt;p&gt;設定ができたらHugoが生成したpublicフォルダを公開。これあってんのかな(-_-;)&lt;/p&gt;
+
+&lt;p&gt;こんな感じで公開まで来ました。また弄りたくなったらもう少し詳しくいじってみよう。&lt;/p&gt;
 </description>
     </item>
     
