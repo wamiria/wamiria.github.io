@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 草とロボット</title>
-    <link>http://yourSiteHere/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on 草とロボット</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://yourSiteHere/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://yoursitehere/post/hoge/</link>
+      <link>http://localhost:1313/post/hoge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yoursitehere/post/hoge/</guid>
+      <guid>http://localhost:1313/post/hoge/</guid>
       <description>&lt;p&gt;##Hugoでページ公開&lt;/p&gt;
 
 &lt;p&gt;ubuntu環境でhugoとgithub pagesをつかってブログを作ってみました。忘れないようにかいておきます。&lt;/p&gt;
