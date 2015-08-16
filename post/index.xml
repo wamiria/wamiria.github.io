@@ -2,23 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 草とロボット</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://yourSiteHere/post/</link>
     <description>Recent content in Posts on 草とロボット</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yourSiteHere/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/post/hoge/</link>
+      <link>http://yoursitehere/post/hoge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hoge/</guid>
-      <description>&lt;p&gt;##Hugoでページ公開&lt;/p&gt;
+      <guid>http://yoursitehere/post/hoge/</guid>
+      <description>
+
+&lt;h2 id=&#34;hugoでページ公開:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;Hugoでページ公開&lt;/h2&gt;
 
 &lt;p&gt;ubuntu環境でhugoとgithub pagesをつかってブログを作ってみました。忘れないようにかいておきます。&lt;/p&gt;
 
-&lt;p&gt;#Hugoをインストール&lt;/p&gt;
+&lt;h1 id=&#34;hugoをインストール:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;Hugoをインストール&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://exponential.io/blog/2015/02/25/install-hugo-on-ubuntu-linux/&#34;&gt;Install Hugo on Ubuntu Linux&lt;/a&gt;&lt;/p&gt;
 
@@ -26,13 +28,13 @@
 
 &lt;p&gt;かいてある通りにやったらうまくいきました。&lt;/p&gt;
 
-&lt;p&gt;#Hugoで記事を作成&lt;/p&gt;
+&lt;h1 id=&#34;hugoで記事を作成:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;Hugoで記事を作成&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://eichann.github.io/post/first/&#34;&gt;hugo + Github Pagesでブログ作成に挑戦した話&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;こちらを参考にしました。github pagesで公開の前まで実行です。&lt;/p&gt;
 
-&lt;p&gt;#記事（markdown)の編集&lt;/p&gt;
+&lt;h1 id=&#34;記事-markdown-の編集:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;記事（markdown)の編集&lt;/h1&gt;
 
 &lt;p&gt;markdownというのを全く知らなかったので調べて編集しました。&lt;/p&gt;
 
@@ -40,7 +42,7 @@
 
 &lt;p&gt;markdownで記事の編集ができたらHugoでページを生成！&lt;/p&gt;
 
-&lt;p&gt;#github　pagesで公開&lt;/p&gt;
+&lt;h1 id=&#34;github-pagesで公開:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;github　pagesで公開&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://liginc.co.jp/web/html-css/html/96453&#34;&gt;Git初心者でも大丈夫！完全無料でGithub PagesにWebページを公開する方法&lt;/a&gt;&lt;/p&gt;
 
